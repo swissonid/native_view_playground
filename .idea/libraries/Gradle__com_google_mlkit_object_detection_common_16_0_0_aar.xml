@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:object-detection-common:16.0.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02a9c8cdf0b48bc0b5cd65a801624823/jetified-object-detection-common-16.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
